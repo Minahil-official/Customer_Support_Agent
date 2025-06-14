@@ -130,7 +130,4 @@ This project is licensed under the MIT License.
 
 ```
 
----
-
-Let me know if you'd like the README exported as a downloadable `.md` file or need a GitHub-ready badge version.
 ```
